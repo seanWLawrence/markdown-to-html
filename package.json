@@ -71,7 +71,7 @@
     "mkdirp": "^0.5.1",
     "mustache": "^3.1.0",
     "ncp": "^2.0.0",
-    "yargs-parser": "^16.1.0"
+    "yargs-parser": "^18.1.2"
   },
   "config": {
     "commitizen": {
